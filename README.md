@@ -94,15 +94,20 @@
 
 ## 📊 GitHub Stats
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.demolab.com?user=Jishaan-Azmi&theme=tokyonight" />
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishaan-Azmi&theme=tokyonight" />
 
-<!-- General Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🌐 Connect With Me
