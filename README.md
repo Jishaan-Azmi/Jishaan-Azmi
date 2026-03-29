@@ -94,18 +94,18 @@
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Streak -->
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishaan-Azmi&theme=tokyonight" />
+</p>
 
-  <br><br>
-
-  <!-- General Stats -->
+<!-- General Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-  <br><br>
-
-  <!-- Top Languages -->
+<!-- Top Languages -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 ---
