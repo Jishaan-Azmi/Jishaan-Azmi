@@ -12,21 +12,19 @@
 
 ## 🚀 About Me
 
-<p align="left">
+<div style="display:flex; align-items:center; justify-content:space-between;">
 
-<span style="display:inline-block; width:60%; vertical-align:top;">
-
+<div style="flex:1;">
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
+</div>
 
-</span>
-
-<span style="display:inline-block; width:35%; text-align:right; vertical-align:top;">
+<div>
 <img src="gh-1.gif" alt="Coding GIF" width="120"/>
-</span>
+</div>
 
-</p>
+</div>
 
 ---
 
