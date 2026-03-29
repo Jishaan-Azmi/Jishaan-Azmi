@@ -87,6 +87,10 @@
 <br/><br/>
 
 ---
+<p align='center'>
+  <img src='https://github-profile-trophy.vercel.app/?username=Jishaan-Azmi&theme=dracula&column=6'>
+</p>
+---
 
 ## 📊 GitHub Stats
 
