@@ -11,11 +11,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering Student  
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
 
+<p align="center">
+  <img src="gh-1.gif" alt="Coding GIF" width="60%" />
+</p>
 ---
 
 # 💻 Tech Stack:
