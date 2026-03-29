@@ -6,9 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jishaan Azmi</h1>
-<h3 align="center">🚀 Software & Web Developer from India 🇮🇳</h3>
-<p align="center">Building real-world projects and scalable web applications — one commit at a time.</p>
-
+<h3 align="center">Software & Web Developer from India 🇮🇳, building real-world projects and scalable web applications.</h3>
 ---
 
 ## 🚀 About Me
