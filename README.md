@@ -18,77 +18,40 @@
 
 ---
 
-### 📝 Programming Languages:
+# 💻 Tech Stack:
 
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,r" />
-
-<br/><br/><br/>
-
----
-
-### 🌐 Web Development:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,jquery" />
-
-<br/><br/><br/>
-
----
-
-### ⚙️ Backend & Frameworks:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=nodejs,django" />
-
-<br/><br/><br/>
-
----
-
-### 📱 App & Platforms:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=android" />
-
-<br/><br/><br/>
-
----
-
-### 🗄️ Databases:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-
-<br/><br/><br/>
-
----
-
-### 📊 Data & Libraries:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=python" />
-&nbsp; NumPy • Pandas
-
-<br/><br/><br/>
-
----
-
-### 🛠️ Tools & DevOps:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-
-<br/><br/><br/>
-
----
-
-### ☁️ Deployment:
-
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=netlify,vercel" />
-
-<br/><br/><br/>
-
----
-
-### 🔗 Other Skills:
-
-- REST APIs  
-- DSA  
-- XML  
-- OOP Concepts  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
 <br/><br/><br/><br/>
 
 ---
