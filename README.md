@@ -12,18 +12,16 @@
 
 ## 🚀 About Me
 
-<table style="width:100%; border:none;">
+<table style="width:100%; border:0;">
   <tr>
     <!-- Left side text -->
-    <td style="width:60%; vertical-align:top; border:none; padding-right:10px;">
+    <td style="width:60%; vertical-align:middle; padding-right:20px; border:0;">
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
     </td>
-
-    <!-- Right side GIF -->
-    <td style="width:40%; vertical-align:top; border:none; text-align:right;">
-      <img src="gh-1.gif" alt="Coding GIF" width="120" />
+    <td style="width:40%; vertical-align:middle; text-align:right; border:0;">
+      <img src="gh-1.gif" alt="Coding GIF" style="width:150px; height:auto;" />
     </td>
   </tr>
 </table>
