@@ -15,7 +15,7 @@
 <table style="width:100%; border:0;">
   <tr>
     <!-- Left side text -->
-    <td style="width:60%; vertical-align:middle; padding-right:20px; border:0;">
+    <td style="width:60%; vertical-align:middle; padding-right:20px; border:none;">
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
