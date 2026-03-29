@@ -22,7 +22,7 @@
 
     </td>
     <td style="width:40%; text-align:center; border:none;">
-      <img src="gh-1.gif" alt="Coding GIF" style="width:100%; max-width:400px;" />
+      <img src="gh-1.gif" alt="Coding GIF" style="width:100%; max-width:100px;" />
     </td>
   </tr>
 </table>
