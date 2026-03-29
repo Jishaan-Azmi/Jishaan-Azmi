@@ -20,51 +20,75 @@
 
 ### 📝 Programming Languages:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,r" />
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
-### 🖼️ Frameworks & Tools:
+### 🌐 Web Development:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Express.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,jquery" />
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
-### 🛠️ DevOps & Tools:
+### ⚙️ Backend & Frameworks:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/GitHub.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=nodejs,django" />
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
-### 📚 Databases:
+### 📱 App & Platforms:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=android" />
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
-### 💻 IDE & Tools:
+### 🗄️ Databases:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 
+<br/><br/><br/>
+
+---
+
+### 📊 Data & Libraries:
+
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=python" />
+&nbsp; NumPy • Pandas
+
+<br/><br/><br/>
+
+---
+
+### 🛠️ Tools & DevOps:
+
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+
+<br/><br/><br/>
+
+---
+
+### ☁️ Deployment:
+
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=netlify,vercel" />
+
+<br/><br/><br/>
+
+---
+
+### 🔗 Other Skills:
+
+- REST APIs  
+- DSA  
+- XML  
+- OOP Concepts  
 <br/><br/><br/><br/>
 
 ---
@@ -90,19 +114,31 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/jishaan-azmi">
-<img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+<div align="center"> 
+  <a href="mailto:jishaanyazmi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:jishaanyazmi@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"></a>
+  <a href="https://www.linkedin.com/in/jishaan-azmi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://instagram.com/jishaan_azmi">
-<img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
+  <a href="https://instagram.com/jishaan_azmi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="https://wa.me/918104035311">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50"></a>
-</p>
+  <a href="https://wa.me/918104035311" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://jishaanyazmi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Jishaan-Azmi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
