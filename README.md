@@ -11,20 +11,9 @@
 ---
 
 ## 🚀 About Me
-
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <!-- Left side text -->
-    <td style="width:60%; vertical-align:middle; border:none; padding:0;">
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
-    </td>
-    <td style="width:40%; vertical-align:middle; text-align:right; border:none; padding:0;">
-      <img src="gh-1.gif" alt="Coding GIF" style="width:150px; height:auto; display:block;" />
-    </td>
-  </tr>
-</table>
 
 ---
 
