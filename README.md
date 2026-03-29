@@ -88,7 +88,7 @@
 
 ---
 <p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=Jishaan-Azmi&theme=dracula&column=6'>
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=Jishaan-Azmi&theme=dracula&column=11'>
 </p>
 ---
 
