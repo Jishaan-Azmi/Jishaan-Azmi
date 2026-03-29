@@ -14,7 +14,7 @@
 
 <table style="width:100%; border:none;">
   <tr>
-    <td style="width:60%; vertical-align:top; border:none;">
+    <td style="width:60%; vertical-align:top; border:none; padding-right:10px;">
 
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
@@ -22,7 +22,7 @@
 
     </td>
     <td style="width:40%; text-align:center; border:none;">
-      <img src="gh-1.gif" alt="Coding GIF" style="width:100%; max-width:100px;" />
+      <img src="gh-1.gif" alt="Coding GIF" style="width:200px; max-width:50%;" />
     </td>
   </tr>
 </table>
