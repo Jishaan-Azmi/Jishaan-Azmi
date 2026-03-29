@@ -12,22 +12,21 @@
 
 ## 🚀 About Me
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td style="width:60%; vertical-align:top; padding-right:10px;">
+<p align="left">
+
+<span style="display:inline-block; width:60%; vertical-align:top;">
 
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
 
-    </td>
-    <td style="width:40%; text-align:right; vertical-align:top;">
+</span>
 
-      <img src="gh-1.gif" alt="Coding GIF" style="width:150px;" />
+<span style="display:inline-block; width:35%; text-align:right; vertical-align:top;">
+<img src="gh-1.gif" alt="Coding GIF" width="120"/>
+</span>
 
-    </td>
-  </tr>
-</table>
+</p>
 
 ---
 
