@@ -11,13 +11,21 @@
 ---
 
 ## 🚀 About Me
+
+<table>
+  <tr>
+    <td>
+
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
 
-<p align="center">
-  <img src="gh-1.gif" alt="Coding GIF" width="60%" />
-</p>
+    </td>
+    <td>
+      <img src="gh-1.gif" alt="Coding GIF" width="200" />
+    </td>
+  </tr>
+</table>
 ---
 
 # 💻 Tech Stack:
