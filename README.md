@@ -76,14 +76,17 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🔹 Project Highlights
 
-| Project | Description | Tech | Repo |
-|--------|-------------|------|------|
-| 🏙️ **Civik Issue Report** | City issue tracking & reporting platform | React, Node.js | [View →](https://github.com/Jishaan-Azmi/city-report-track) |
-| 🍽️ **Mess Management System** | Streamlined mess operations — meals, attendance & billing | PHP, MySQL | [View →](https://github.com/Jishaan-Azmi/Mess-Management-System) |
-| ✈️ **Destination Dreamers** | Travel platform to explore destinations & plan trips | React | [View →](https://github.com/Jishaan-Azmi/Destination-Dreamers) |
-| 🔧 **More Projects** | More exciting projects coming soon! | — | Stay tuned |
+- **Civik Issue Report:**  
+  A modern travel platform to explore destinations, plan trips, and share experiences. [View Repo](https://github.com/Jishaan-Azmi/city-report-track)  
+
+- **Mess Management System:**  
+  Streamlined solution to manage mess operations efficiently, including meals, attendance, and billing. [View Repo](https://github.com/Jishaan-Azmi/Mess-Management-System)  
+
+- **Future Projects:**  
+  More exciting web & software projects coming soon! Stay tuned.  
+<br/><br/>
 
 ---
 
