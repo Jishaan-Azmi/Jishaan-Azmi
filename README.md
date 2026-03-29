@@ -52,14 +52,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
-<br/><br/><br/><br/>
+<br/><br/>
 
 ---
 
-## 🚀 Projects
-- 🔹 Destination Dreamers – Travel platform  
-- 🔹 Mess Management System – Manage mess operations  
-- 🔹 More projects coming soon...
+<p align="center"> <a href="https://github.com/Jishaan-Azmi/Destination-Dreamers" target="_blank"> <img src="https://img.shields.io/badge/Destination%20Dreamers-Travel%20Platform-blue?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="https://github.com/Jishaan-Azmi/Mess-Management-System" target="_blank"> <img src="https://img.shields.io/badge/Mess%20Management%20System-Operations-green?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-orange?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<br/><br/>
 
 ---
 
