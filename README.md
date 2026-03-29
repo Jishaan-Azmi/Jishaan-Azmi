@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jishaan-Azmi&label=Profile%20views&color=blueviolet&style=flat" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Zishan</h1>
+<h1 align="center">Hi 👋, I'm Jishaan Azmi</h1>
 <h3 align="center">Software & Web Developer from India 🇮🇳, building real-world projects and scalable web applications.</h3>
 
 ---
