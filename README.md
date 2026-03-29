@@ -90,7 +90,7 @@
 <p align='center'>
   <img src='https://hacked-github-stat-trophies.vercel.app/?username=Jishaan-Azmi&theme=dracula&column=11'>
 </p>
----
+
 
 ## 📊 GitHub Stats
 
@@ -108,7 +108,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
----
+
 
 ## 🌐 Connect With Me
 
