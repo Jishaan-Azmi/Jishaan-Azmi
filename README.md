@@ -16,8 +16,8 @@
   <tr>
     <!-- Left side text -->
     <td style="width:60%; vertical-align:middle; padding-right:20px; border:none;">
-- 💻 Software & Web Developer  
-- 🚀 Focused on building real products  
+- 💻 Software & Web Developer  <br>
+- 🚀 Focused on building real products <br> 
 - 📈 Learning by doing, not just watching  
     </td>
     <td style="width:40%; vertical-align:middle; text-align:right; border:0;">
