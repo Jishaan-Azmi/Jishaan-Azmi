@@ -94,13 +94,16 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
-  <!-- GitHub Stats -->
-  <img align="left" width="49.7%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=Jishaan-Azmi&count_private=true&show_icons=true&theme=dracula" />
+  <!-- GitHub General Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&count_private=true&theme=tokyonight" />
 
-  <!-- Streak Stats -->
-  <img align="right" width="49.7%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Jishaan-Azmi&theme=dracula" />
+  <!-- GitHub Streak Stats -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishaan-Azmi&theme=tokyonight" />
+
+  <!-- GitHub Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight" />
 
 </div>
 
