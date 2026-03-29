@@ -56,8 +56,34 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/Jishaan-Azmi/Destination-Dreamers" target="_blank"> <img src="https://img.shields.io/badge/Destination%20Dreamers-Travel%20Platform-blue?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="https://github.com/Jishaan-Azmi/Mess-Management-System" target="_blank"> <img src="https://img.shields.io/badge/Mess%20Management%20System-Operations-green?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-orange?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+## 🚀 Projects
 
+<p align="center">
+
+<a href="https://github.com/Jishaan-Azmi/Destination-Dreamers" target="_blank">
+<img src="https://img.shields.io/badge/Destination%20Dreamers-Travel%20Platform-blue?style=for-the-badge&logo=react&logoColor=white" />
+</a>  
+
+<a href="https://github.com/Jishaan-Azmi/Mess-Management-System" target="_blank">
+<img src="https://img.shields.io/badge/Mess%20Management%20System-Operations-green?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-orange?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+
+</p>
+
+### 🔹 Project Highlights
+
+- **Destination Dreamers:**  
+  A modern travel platform to explore destinations, plan trips, and share experiences. [View Repo](https://github.com/Jishaan-Azmi/Destination-Dreamers)  
+
+- **Mess Management System:**  
+  Streamlined solution to manage mess operations efficiently, including meals, attendance, and billing. [View Repo](https://github.com/Jishaan-Azmi/Mess-Management-System)  
+
+- **Future Projects:**  
+  More exciting web & software projects coming soon! Stay tuned.  
 <br/><br/>
 
 ---
