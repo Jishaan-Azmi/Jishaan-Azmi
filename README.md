@@ -12,17 +12,17 @@
 
 ## 🚀 About Me
 
-<table>
+<table style="width:100%; border:none;">
   <tr>
-    <td>
+    <td style="width:60%; vertical-align:top; border:none;">
 
 - 💻 Software & Web Developer  
 - 🚀 Focused on building real products  
 - 📈 Learning by doing, not just watching  
 
     </td>
-    <td>
-      <img src="gh-1.gif" alt="Coding GIF" width="200" />
+    <td style="width:40%; text-align:center; border:none;">
+      <img src="gh-1.gif" alt="Coding GIF" style="width:100%; max-width:400px;" />
     </td>
   </tr>
 </table>
