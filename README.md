@@ -94,17 +94,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jishaan-Azmi&theme=tokyonight"/>
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.demolab.com?user=Jishaan-Azmi&theme=tokyonight" />
 
-  <br><br>
+<!-- General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
