@@ -108,12 +108,7 @@
 </div>
 
 ---
-## 🌍 Portfolio
 
-<a href="https://jishaanyazmi.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
----
 
 ## ⚡ Fun Fact
 I don’t just learn code… I build things with it.
