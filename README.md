@@ -66,11 +66,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishaan-Azmi&theme=midnight-purple"/>
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Jishaan-Azmi&theme=tokyonight"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Jishaan-Azmi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishaan-Azmi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -104,10 +108,11 @@
 </div>
 
 ---
-
 ## 🌍 Portfolio
-👉 https://jishaanyazmi.netlify.app
 
+<a href="https://jishaanyazmi.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 ---
 
 ## ⚡ Fun Fact
